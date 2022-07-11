@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+}
+#container{
+    position: relative;
+	top: 30px;
+	border:1px solid #000;
+	margin:auto;
+    height: 960px;
+    width: 960px;
+	
+	
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+.grid {
+	border:none;
+	outline:1px solid #000;
+	display:inline-block;
+    height: 60px;
+    width: 60px;
+}
+#btn{
+    font-size: 20px;
+    color: none;
+    width: 150px;
+    height: 40px;
+}
